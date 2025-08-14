@@ -1,56 +1,31 @@
 <div align="center">
 
-# Speed Always Wins: A Survey on Efficient Architecture for Large Language Models
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.09834)
-
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/weigao266/Awesome-Efficient-Arch) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/weigao266/Awesome-Efficient-Arch?color=green)
-
+# Awesome-Efficient-Arch
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![arXiv](https://img.shields.io/badge/arXiv-Speed_Always_Wins-b31b1b.svg)](https://arxiv.org/pdf/2503.09567) 
+[![Paper](https://img.shields.io/badge/Paper-449-green.svg)](https://github.com/weigao266/Awesome-Efficient-Arch)
+[![Last Commit](https://img.shields.io/github/last-commit/weigao266/Awesome-Efficient-Arch)](https://github.com/weigao266/Awesome-Efficient-Arch)
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 </div>
 
-### TABLE OF CONTENTS
-- [1 Introduction](#1-introduction)
-  - [1.1 Background](#11-background)
-  - [1.2 Position and Contributions](#12-position-and-contributions)
-- [2 Linear Sequence Modeling](#2-linear-sequence-modeling)
-  - [2.1 Linear Attention](#21-linear-attention)
-  - [2.2 Linear RNN](#22-linear-rnn)
-  - [2.3 State Space Model](#23-state-space-model)
-  - [2.4 Test-Time-Training RNN](#24-test-time-training)
-  - [2.5 Unified Linear Sequence Modeling](#25-unified-linear-sequence-modeling)
-  - [2.6 Linearization](#26-linearization)
-  - [2.7 Hardware-efficient Implementation](#27-hardware-efficient-implementation)
-- [3 Sparse Sequence Modeling](#3-sparse-sequence-modeling)
-  - [3.1 Static Sparse Attention](#31-static-sparse-attention)
-  - [3.2 Dynamic Sparse Attention](#32-dynamic-sparse-attention)
-  - [3.3 Training-free Sparse Attention](#33-training-free-sparse-attention)
-  - [3.4 Hardware-efficient Implementation](#34-hardware-efficient-implementation)
-- [4 Efficient Full Attention](#4-efficient-full-attention)
-  - [4.1 IO-Aware Attention](#41-io-aware-attention)
-  - [4.2 Grouped Attention](#42-grouped-attention)
-  - [4.3 Mixture of Attention](#43-mixture-of-attention)
-  - [4.4 Quantized Attention](#44-quantized-attention)
-- [5 Sparse Mixture-of-Experts](#5-sparse-mixture-of-experts)
-  - [5.1 Routing Mechanisms](#51-routing-mechanisms)
-  - [5.2 Expert Architectures](#52-expert-architectures)
-  - [5.3 MoE Conversion](#53-moe-conversion)
-- [6 Hybrid Architectures](#6-hybrid-architectures)
-  - [6.1 Inter-layer Hybrid](#61-inter-layer-hybrid)
-  - [6.2 Intra-layer Hybrid](#62-intra-layer-hybrid)
-- [7 Diffusion Large Language Models](#7-diffusion-large-language-models)
-  - [7.1 Non-Autoregressive Diffusion LLM](#71-non-autoregressive-diffusion-llm)
-  - [7.2 Bridging Diffusion LLM and Autoregressive](#72-bridging-diffusion-llm-and-autoregressive)
-  - [7.3 Extending Diffusion LLM to Multimodality](#73-extending-diffusion-llm-to-multimodality)
-- [8 Applications to Other Modalities](#8-applications-to-other-modalities)
-  - [8.1 Vision](#81-vision)
-  - [8.2 Audio](#82-audio)
-  - [8.3 Multimodality](#83-multimodality)
-- [9 Conclusion and Future Directions](#9-conclusion-and-future-directions)
----
+## 🔥 News
+- **2025.08**: 🎉🎉🎉 We have released a survey paper [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://arxiv.org/pdf/2508.09834), with **449** papers reviewed. Please feel free to open PRs to include your Awesome-Efficient-Arch work.
 
-## Paper List
+## ✨ Overview
 
+<p align="center">
+  <img src="assets/title.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/overall.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/tree.png" width="100%" />
+</p>
+
+## 📄 Paper List
 
 ### Linear Sequence Modeling
 
@@ -499,12 +474,22 @@
 
 
 
-## Contribution
+## 🤝🏻 Contribution
 
 ### Contributing to the paper list
 
-⭐ **Join us to improve this repo!** ⭐ If you know of any **Awesome Efficient Arch** we've missed, please contribute via PR or raise an issue. Your contributions are very welcomed!
+⭐ **Join us to improve this repo!** ⭐ If you know of any **Awesome-Efficient-Arch** work we've missed, please contribute via PR or raise an issue. Your contributions are very welcomed!
 
+## 🖤 Citation
+If you find this survey useful, please consider citing our paper:
+```bib
+@article{sun2025survey,
+  title={Speed Always Wins: A Survey on Efficient Architectures for Large Language Models},
+  author={Sun, Weigao and Hu, Jiaxi and Zhou, Yucheng and Du, Jusen and Lan, Disen and Wang, Kexin and Zhu, Tong and Qu, Xiaoye and Zhang, Yu and Mo, Xiaoyu and Liu, Daizong and Liang, Yuxuan and Chen, Wenliang and Li, Guoqi and Cheng, Yu},
+  journal={arXiv preprint arXiv:2508.09834},
+  year={2025}
+}
+```
 
 <!-- ### Contributors
 
