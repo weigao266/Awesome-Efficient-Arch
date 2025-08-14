@@ -3,7 +3,7 @@
 # Awesome-Efficient-Arch
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-Speed_Always_Wins-b31b1b.svg)](https://arxiv.org/pdf/2503.09567) 
-[![Paper](https://img.shields.io/badge/Paper-449-green.svg)](https://github.com/weigao266/Awesome-Efficient-Arch)
+[![Paper](https://img.shields.io/badge/Papers-449-green.svg)](https://github.com/weigao266/Awesome-Efficient-Arch)
 [![Last Commit](https://img.shields.io/github/last-commit/weigao266/Awesome-Efficient-Arch)](https://github.com/weigao266/Awesome-Efficient-Arch)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 </div>
@@ -26,6 +26,46 @@
 </p>
 
 ## 📄 Paper List
+
+### Table of Contents
+- 1 [Introduction](#-introduction)
+  - 1.1 [Background](#-background)
+  - 1.2 [Position and Contributions](#-position-and-contributions)
+- 2 [Linear Sequence Modeling](#-linear-sequence-modeling)
+  - 2.1 [Linear Attention](#-linear-attention)
+  - 2.2 [Linear RNN](#-linear-rnn)
+  - 2.3 [State Space Model](#-state-space-model)
+  - 2.4 [Test-Time-Training RNN](#-test-time-training)
+  - 2.5 [Unified Linear Sequence Modeling](#-unified-linear-sequence-modeling)
+  - 2.6 [Linearization](#-linearization)
+  - 2.7 [Hardware-efficient Implementation](#-hardware-efficient-implementation)
+- 3 [Sparse Sequence Modeling](#-sparse-sequence-modeling)
+  - 3.1 [Static Sparse Attention](#-static-sparse-attention)
+  - 3.2 [Dynamic Sparse Attention](#-dynamic-sparse-attention)
+  - 3.3 [Training-free Sparse Attention](#-training-free-sparse-attention)
+  - 3.4 [Hardware-efficient Implementation](#-hardware-efficient-implementation)
+- 4 [Efficient Full Attention](#-efficient-full-attention)
+  - 4.1 [IO-Aware Attention](#-io-aware-attention)
+  - 4.2 [Grouped Attention](#-grouped-attention)
+  - 4.3 [Mixture of Attention](#-mixture-of-attention)
+  - 4.4 [Quantized Attention](#-quantized-attention)
+- 5 [Sparse Mixture-of-Experts](#-sparse-mixture-of-experts)
+  - 5.1 [Routing Mechanisms](#-routing-mechanisms)
+  - 5.2 [Expert Architectures](#-expert-architectures)
+  - 5.3 [MoE Conversion](#-moe-conversion)
+- 6 [Hybrid Architectures](#-hybrid-architectures)
+  - 6.1 [Inter-layer Hybrid](#-inter-layer-hybrid)
+  - 6.2 [Intra-layer Hybrid](#-intra-layer-hybrid)
+- 7 [Diffusion Large Language Models](#-diffusion-large-language-models)
+  - 7.1 [Non-Autoregressive Diffusion LLM](#-non-autoregressive-diffusion-llm)
+  - 7.2 [Bridging Diffusion LLM and Autoregressive](#-bridging-diffusion-llm-and-autoregressive)
+  - 7.3 [Extending Diffusion LLM to Multimodality](#-extending-diffusion-llm-to-multimodality)
+- 8 [Applications to Other Modalities](#-applications-to-other-modalities)
+  - 8.1 [Vision](#-vision)
+  - 8.2 [Audio](#-audio)
+  - 8.3 [Multimodality](#-multimodality)
+- 9 [Conclusion and Future Directions](#-conclusion-and-future-directions)
+---
 
 ### Linear Sequence Modeling
 
@@ -139,7 +179,7 @@
 - [Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing](https://arxiv.org/abs/2505.00315) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 
-#### Train-free Sparse Attention
+#### Training-free Sparse Attention
 
 - [Minference 1.0: Accelerating pre-filling for long-context llms via dynamic sparse attention](https://arxiv.org/abs/2407.02490) ![](https://img.shields.io/badge/abs-2024.07-red)
 - [Moa: Mixture of sparse attention for automatic large language model compression](https://arxiv.org/abs/2406.14909) ![](https://img.shields.io/badge/abs-2024.06-red)
@@ -467,10 +507,6 @@
 - [Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts](https://ieeexplore.ieee.org/document/10887014/) ![](https://img.shields.io/badge/PAMI-2025-blue)
 - [Mixture of Cluster-conditional LoRA Experts for Vision-Language Instruction Tuning](https://arxiv.org/abs/2312.12379) ![](https://img.shields.io/badge/abs-2023.12-red)
 - [LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs](https://arxiv.org/abs/2401.16160) ![](https://img.shields.io/badge/abs-2024.01-red)
-
-
-
----
 
 
 
