@@ -71,15 +71,32 @@
 
 #### Linear Attention
 
-- [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://arxiv.org/abs/2503.14456) ![](https://img.shields.io/badge/abs-2025.03-red)
-- [LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid](https://arxiv.org/abs/2502.07563) ![](https://img.shields.io/badge/abs-2025.02-red)
-- [Native sparse attention: Hardware-aligned and natively trainable sparse attention](https://arxiv.org/abs/2502.11089) ![](https://img.shields.io/badge/abs-2025.02-red)
-- [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189) ![](https://img.shields.io/badge/abs-2025.02-red)
-- [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://arxiv.org/abs/2502.13685) ![](https://img.shields.io/badge/abs-2025.02-red)
-- [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464) ![](https://img.shields.io/badge/abs-2024.12-red)
-- [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060) ![](https://img.shields.io/badge/abs-2024.05-red)
-- [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://arxiv.org/abs/2405.17381) ![](https://img.shields.io/badge/abs-2024.05-red)
-- [Gated linear attention transformers with hardware-efficient training](https://arxiv.org/abs/2312.06635) ![](https://img.shields.io/badge/abs-2023.12-red)
+- [Log-Linear Attention](https://arxiv.org/abs/2506.04761) ![](https://img.shields.io/badge/arXiv-2025.06-red)
+- [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://www.arxiv.org/abs/2502.13685) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+- [ReGLA: Refining Gated Linear Attention](https://arxiv.org/abs/2502.01578) ![](https://img.shields.io/badge/arXiv-2025.02-red) ![](http://img.shields.io/badge/NAACL-2025-yellow)
+- [MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map](https://arxiv.org/abs/2411.10741) ![](https://img.shields.io/badge/arXiv-2024.11-red) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
+- [Gated Slot Attention for Efficient Linear-Time Sequence Modeling](https://arxiv.org/abs/2409.07146) ![](https://img.shields.io/badge/arXiv-2024.09-red) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
+- [Scaling Laws for Linear Complexity Language Models](https://arxiv.org/abs/2406.16690) ![](https://img.shields.io/badge/arXiv-2024.06-red)
+- [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://arxiv.org/abs/2405.17381) ![](https://img.shields.io/badge/arXiv-2024.05-red)
+- [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427) ![](https://img.shields.io/badge/arXiv-2024.02-red)
+- [Linear Transformers with Learnable Kernel Functions are Better In-Context Models](https://arxiv.org/abs/2402.10644v2) ![](https://img.shields.io/badge/arXiv-2024.02-red)
+- [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668) ![](https://img.shields.io/badge/arXiv-2024.02-red)
+- [The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry](https://arxiv.org/abs/2402.04347) ![](https://img.shields.io/badge/arXiv-2024.02-red)
+- [Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104) ![](https://img.shields.io/badge/arXiv-2024.01-red)
+- [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/abs/2401.04658) ![](https://img.shields.io/badge/arXiv-2024.01-red)
+- [Gated Linear Attention Transformers with Hardware-efficient Training](https://arxiv.org/abs/2312.06635) ![](https://img.shields.io/badge/arXiv-2023.12-red) ![](http://img.shields.io/badge/ICML-2024-yellow)
+- [GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927) ![](https://img.shields.io/badge/arXiv-2023.11-red)
+- [AGaLiTe: Approximate Gated Linear Transformers for Online Reinforcement Learning](https://arxiv.org/abs/2310.15719) ![](https://img.shields.io/badge/arXiv-2023.10-red)
+- [Recurrent Linear Transformers](https://arxiv.org/abs/2310.15719v1) ![](https://img.shields.io/badge/arXiv-2023.10-red)
+- [TransNormerLLM: A Faster and Better Large Language Model with Improved TransNormer](https://arxiv.org/abs/2307.14995) ![](https://img.shields.io/badge/arXiv-2023.07-red)
+- [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621) ![](https://img.shields.io/badge/arXiv-2023.07-red)
+- [The Devil in Linear Transformer](https://arxiv.org/abs/2210.10340) ![](https://img.shields.io/badge/arXiv-2022.10-red) ![](http://img.shields.io/badge/EMNLP-2022-yellow)
+- [Transformer Quality in Linear Time](https://arxiv.org/abs/2202.10447) ![](https://img.shields.io/badge/arXiv-2022.02-red) ![](http://img.shields.io/badge/ICML-2022-yellow)
+- [ABC: Attention with Bounded-memory Control](https://arxiv.org/abs/2110.02488) ![](https://img.shields.io/badge/arXiv-2021.10-red) ![](http://img.shields.io/badge/ACL-2022-yellow)
+- [Going Beyond Linear Transformers with Recurrent Fast Weight Programmers](https://arxiv.org/abs/2106.06295) ![](https://img.shields.io/badge/arXiv-2021.06-red) ![](http://img.shields.io/badge/NeurIPS-2021-yellow)
+- [Random Feature Attention](https://arxiv.org/abs/2103.02143) ![](https://img.shields.io/badge/arXiv-2021.03-red) ![](http://img.shields.io/badge/ICLR-2021-yellow)
+- [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236) ![](https://img.shields.io/badge/arXiv-2020.06-red) ![](http://img.shields.io/badge/ICML-2020-yellow)
+
 
 #### Linear RNN
 
@@ -132,8 +149,12 @@
 
 #### Linearization
 
+
+- [On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention](https://arxiv.org/abs/2506.09316) ![](https://img.shields.io/badge/arXiv-2025.06-red) ![](http://img.shields.io/badge/ICML-2025-yellow)
 - [LoLA: Low-Rank Linear Attention With Sparse Caching](https://arxiv.org/abs/2505.23666) ![](https://img.shields.io/badge/arXiv-2025.05-red)
+- [M1: Towards scalable test-time compute with mamba reasoning models](https://arxiv.org/abs/2504.10449) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 - [Liger: Linearizing Large Language Models to Gated Recurrent Structures](https://arxiv.org/abs/2503.01496) ![](https://img.shields.io/badge/arXiv-2025.03-red) ![](http://img.shields.io/badge/ICML-2025-yellow)
+- [Thinking slow, fast: Scaling inference compute with distilled reasoners](https://arxiv.org/abs/2502.20339) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 - [Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing](https://arxiv.org/abs/2502.14458) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 - [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/abs/2410.10254) ![](https://img.shields.io/badge/arXiv-2024.10-red) ![](http://img.shields.io/badge/ICLR-2025-yellow)
 - [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](https://arxiv.org/abs/2408.15237) ![](https://img.shields.io/badge/arXiv-2024.08-red) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
