@@ -97,7 +97,6 @@
 - [Random Feature Attention](https://arxiv.org/abs/2103.02143) ![](https://img.shields.io/badge/arXiv-2021.03-red) ![](http://img.shields.io/badge/ICLR-2021-yellow)
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236) ![](https://img.shields.io/badge/arXiv-2020.06-red) ![](http://img.shields.io/badge/ICML-2020-yellow)
 
-
 #### Linear RNN
 
 - [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/abs/2311.04823) ![](https://img.shields.io/badge/arXiv-2023.11-red) ![](http://img.shields.io/badge/NeurIPS-2023-yellow)
@@ -129,7 +128,6 @@
 
 #### Test-Time-Training RNN
 
-
 - [Test‑Time Regression: A Unifying Framework for Designing Sequence Models with Associative Memory](https://arxiv.org/abs/2501.12352) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 - [MesaNet: Sequence Modeling by Locally Optimal Test‑Time Training](https://arxiv.org/abs/2506.05233) ![](https://img.shields.io/badge/arXiv-2025.06-red)
@@ -146,9 +144,7 @@
 - [MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map](https://arxiv.org/abs/2406.01234) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
 - [It’s All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization](https://arxiv.org/pdf/2504.13173?) ![](https://img.shields.io/badge/arXiv-2024.06-red)
 
-
 #### Linearization
-
 
 - [On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention](https://arxiv.org/abs/2506.09316) ![](https://img.shields.io/badge/arXiv-2025.06-red) ![](http://img.shields.io/badge/ICML-2025-yellow)
 - [LoLA: Low-Rank Linear Attention With Sparse Caching](https://arxiv.org/abs/2505.23666) ![](https://img.shields.io/badge/arXiv-2025.05-red)
@@ -175,62 +171,68 @@
 - [Gated linear attention transformers with hardware-efficient training](https://arxiv.org/abs/2312.06635) ![](https://img.shields.io/badge/abs-2023.12-red)
 - [Gated Slot Attention for Efficient Linear‑Time Sequence Modeling](https://arxiv.org/abs/2409.07146) ![](https://img.shields.io/badge/arXiv-2024.09-red)
 
-
-
 ### Sparse Sequence Modeling
 
 #### Static Sparse Attention
 
-- [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509) ![](https://img.shields.io/badge/abs-2019.04-red)
-- [Star-Transformer](https://arxiv.org/abs/1902.09113) ![](https://img.shields.io/badge/abs-2019.02-red)
+- [LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486) ![](https://img.shields.io/badge/abs-2023.07-red)
+- [Open-Sora: Democratizing Efficient Video Production for All](https://github.com/hpcaitech/Open-Sora) ![](https://img.shields.io/badge/github-Open--Sora-blue)
+- [LongT5: Efficient Text-to-Text Transformer for Long Sequences](https://arxiv.org/abs/2112.07916) ![](https://img.shields.io/badge/abs-2021.12-red)
 - [Blockwise Self-Attention for Long Document Understanding](https://arxiv.org/abs/1911.02972) ![](https://img.shields.io/badge/abs-2019.11-red)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) ![](https://img.shields.io/badge/abs-2020.04-red)
 - [GMAT: Global Memory Augmentation for Transformers](https://arxiv.org/abs/2006.03274) ![](https://img.shields.io/badge/abs-2020.06-red)
 - [ETC: Encoding Long and Structured Inputs in Transformers](https://arxiv.org/abs/2004.08483) ![](https://img.shields.io/badge/abs-2020.04-red)
 - [BigBird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) ![](https://img.shields.io/badge/abs-2020.07-red)
-- [LongT5: Efficient Text-to-Text Transformer for Long Sequences](https://arxiv.org/abs/2112.07916) ![](https://img.shields.io/badge/abs-2021.12-red)
-- [LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486) ![](https://img.shields.io/badge/abs-2023.07-red)
 - [Axial Attention in Multidimensional Transformers](https://arxiv.org/abs/1912.12180) ![](https://img.shields.io/badge/abs-2019.12-red)
-- [Open-Sora: Democratizing Efficient Video Production for All](https://github.com/hpcaitech/Open-Sora) ![](https://img.shields.io/badge/github-Open--Sora-blue)
+- [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509) ![](https://img.shields.io/badge/abs-2019.04-red)
+- [Star-Transformer](https://arxiv.org/abs/1902.09113) ![](https://img.shields.io/badge/abs-2019.02-red)
 
 #### Dynamic Sparse Attention
 
-- [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) ![](https://img.shields.io/badge/abs-2020.01-red)
-- [Efficient Content-Based Sparse Attention with Routing Transformers](https://aclanthology.org/2021.tacl-1.5) ![](https://img.shields.io/badge/TACL-2021-blue)
-- [Sparse Sinkhorn Attention](https://proceedings.mlr.press/v119/tay20a.html) ![](https://img.shields.io/badge/ICML-2020-blue)
-- [Memorizing Transformers](https://arxiv.org/abs/2203.08913) ![](https://img.shields.io/badge/abs-2022.03-red)
+- [Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing](https://arxiv.org/abs/2505.00315) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768) ![](https://img.shields.io/badge/abs-2025.04-red)
+- [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://proceedings.neurips.cc/paper_files/paper/2024/hash/849d0ae15110a1a15c4ec99e4d91b99a-Abstract.html) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
 - [ColT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/abs/2303.09752) ![](https://img.shields.io/badge/abs-2023.03-red)
-- [Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing](https://arxiv.org/abs/2505.00315) ![](https://img.shields.io/badge/abs-2025.05-red)
-
+- [Memorizing Transformers](https://arxiv.org/abs/2203.08913) ![](https://img.shields.io/badge/abs-2022.03-red)
+- [Efficient Content-Based Sparse Attention with Routing Transformers](https://aclanthology.org/2021.tacl-1.5) ![](https://img.shields.io/badge/TACL-2021-blue)
+- [Sparse Sinkhorn Attention](https://proceedings.mlr.press/v119/tay20a.html) ![](https://img.shields.io/badge/ICML-2020-blue)
+- [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) ![](https://img.shields.io/badge/abs-2020.01-red)
+- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) ![](https://img.shields.io/badge/abs-2019.01-red)
+- [Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/abs/1911.05507) ![](https://img.shields.io/badge/abs-2019.11-red)
+- [Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799) ![](https://img.shields.io/badge/abs-2019.05-red)
+- [ABC: Attention with Bounded-Memory Control](https://arxiv.org/abs/2110.02488) ![](https://img.shields.io/badge/abs-2021.10-red)
 
 #### Training-free Sparse Attention
 
+- [LServe: Efficient long-sequence llm serving with unified sparse attention](https://arxiv.org/abs/2502.14866) ![](https://img.shields.io/badge/abs-2025.02-red)
+- [XAttention: Block sparse attention with antidiagonal scoring](https://arxiv.org/abs/2503.16428) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Minference 1.0: Accelerating pre-filling for long-context llms via dynamic sparse attention](https://arxiv.org/abs/2407.02490) ![](https://img.shields.io/badge/abs-2024.07-red)
-- [Moa: Mixture of sparse attention for automatic large language model compression](https://arxiv.org/abs/2406.14909) ![](https://img.shields.io/badge/abs-2024.06-red)
+- [MoA: Mixture of sparse attention for automatic large language model compression](https://arxiv.org/abs/2406.14909) ![](https://img.shields.io/badge/abs-2024.06-red)
 - [SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs](https://arxiv.org/abs/2410.13276) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [SeerAttention-R: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889) ![](https://img.shields.io/badge/abs-2025.06-red)
-- [Spatten: Efficient sparse attention architecture with cascade token and head pruning](https://doi.org/10.1109/HPCA51647.2021.00020) ![](https://img.shields.io/badge/HPCA-2021-blue)
-- [Efficient streaming language models with attention sinks](https://arxiv.org/abs/2309.17453) ![](https://img.shields.io/badge/abs-2023.09-red)
+- [Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104) ![](https://img.shields.io/badge/abs-2024.01-red)
+- [RetrievalAttention: Accelerating Long-context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516) ![](https://img.shields.io/badge/abs-2024.09-red)
+- [LongHeads: Multi-Head Attention is Secretly a Long Context Processor](https://arxiv.org/abs/2402.10685) ![](https://img.shields.io/badge/abs-2024.02-red)
+- [ShadowKV: KV Cache in Shadows for High-throughput Long-context LLM Inference](https://arxiv.org/abs/2410.21465) ![](https://img.shields.io/badge/abs-2024.10-red)
+- [PQCache: Product Quantization-based KVCache for Long Context LLM Inference](https://doi.org/10.1145/3695900) ![](https://img.shields.io/badge/doi-ACM-blue)
 - [Transformers are multi-state rnns](https://arxiv.org/abs/2401.06104) ![](https://img.shields.io/badge/abs-2024.01-red)
-- [H2o: Heavy-hitter oracle for efficient generative inference of large language models](https://arxiv.org/abs/2406.14590) ![](https://img.shields.io/badge/abs-2024.06-red)
+- [H2O: Heavy-hitter oracle for efficient generative inference of large language models](https://arxiv.org/abs/2406.14590) ![](https://img.shields.io/badge/abs-2024.06-red)
 - [Model tells you what to discard: Adaptive kv cache compression for llms](https://arxiv.org/abs/2310.01801) ![](https://img.shields.io/badge/abs-2023.10-red)
 - [Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2406.10774) ![](https://img.shields.io/badge/abs-2024.06-red)
 - [DuoAttention: Efficient long-context llm inference with retrieval and streaming heads](https://arxiv.org/abs/2410.10819) ![](https://img.shields.io/badge/abs-2024.10-red)
-- [LServe: Efficient long-sequence llm serving with unified sparse attention](https://arxiv.org/abs/2502.14866) ![](https://img.shields.io/badge/abs-2025.02-red)
-- [XAttention: Block sparse attention with antidiagonal scoring](https://arxiv.org/abs/2503.16428) ![](https://img.shields.io/badge/abs-2025.03-red)
-
+- [LongLoRA: Efficient Fine-tuning of Long-context Large Language Models](https://arxiv.org/abs/2309.12307) ![](https://img.shields.io/badge/abs-2023.09-red)
+- [Spatten: Efficient sparse attention architecture with cascade token and head pruning](https://doi.org/10.1109/HPCA51647.2021.00020) ![](https://img.shields.io/badge/HPCA-2021-blue)
+- [Efficient streaming language models with attention sinks](https://arxiv.org/abs/2309.17453) ![](https://img.shields.io/badge/abs-2023.09-red)
 
 #### Hardware-efficient Implementation
 
-- [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) ![](https://img.shields.io/badge/abs-2020.04-red)
-- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://nips.cc/virtual/2022/paper/16344) ![](https://img.shields.io/badge/NeurIPS-2022-blue)
-- [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) ![](https://img.shields.io/badge/abs-2023.07-red)
 - [SeerAttention: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189) ![](https://img.shields.io/badge/abs-2025.02-red)
-
-
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://nips.cc/virtual/2022/paper/16344) ![](https://img.shields.io/badge/NeurIPS-2022-blue)
+- [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) ![](https://img.shields.io/badge/abs-2023.07-red)
+- [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) ![](https://img.shields.io/badge/abs-2020.04-red)
   
 ### Efficient Full Attention
 
@@ -240,7 +242,6 @@
 - [FlashAttention‑2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) ![](https://img.shields.io/badge/arXiv-2023.07-red)
 - [FlashAttention‑3: Fast and Accurate Attention with Asynchrony and Low‑Precision](https://arxiv.org/abs/2407.08608) ![](https://img.shields.io/badge/arXiv-2024.07-red) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
 
-  
 #### Grouped Attention
 
 - [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150) ![](https://img.shields.io/badge/abs-2019.11-red)
@@ -248,7 +249,6 @@
 - [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [Hardware-Efficient Attention for Fast Decoding](https://arxiv.org/abs/2505.21487) ![](https://img.shields.io/badge/abs-2025.05-red)
-
 
 #### Mixture of Attention
 
@@ -272,8 +272,6 @@
 - [I‑BERT: Integer‑Only BERT Quantization](https://arxiv.org/abs/2101.01321) ![](https://img.shields.io/badge/arXiv-2021.01-red)
 - [BitDistiller: Unleashing the Potential of Sub‑4‑Bit LLMs via Self‑Distillation](https://arxiv.org/abs/2402.10631) ![](https://img.shields.io/badge/arXiv-2024.02-red)
 
-
-
 ### Sparse Mixture-of-Experts
 
 #### Routing Mechanisms
@@ -293,7 +291,6 @@
 - [Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models](https://arxiv.org/abs/2501.11873) ![](https://img.shields.io/badge/abs-2501.11873-red)
 - [Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](https://arxiv.org/abs/2408.15664) ![](https://img.shields.io/badge/abs-2408.15664-red)
 
-
 #### Expert Architectures
 
 - [From Sparse to Soft Mixtures of Experts](https://arxiv.org/abs/2308.00951) ![](https://img.shields.io/badge/abs-2308.00951-red)
@@ -308,7 +305,6 @@
 - [Mixture of LoRA Experts](https://arxiv.org/abs/2404.13628) ![](https://img.shields.io/badge/abs-2404.13628-red)
 - [Mixture of A Million Experts](https://arxiv.org/abs/2407.04153) ![](https://img.shields.io/badge/abs-2407.04153-red)
 
-
 #### MoE Conversion
 
 - [MoEfication: Transformer Feed-forward Layers are Mixtures of Experts](https://arxiv.org/abs/2110.01786) ![](https://img.shields.io/badge/abs-2110.01786-red)
@@ -320,7 +316,6 @@
 - [MoDification: Mixture of Depths Made Easy](https://arxiv.org/abs/2410.14268v1) ![](https://img.shields.io/badge/abs-2410.14268v1-red)
 - [Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models](https://arxiv.org/abs/2208.03306) ![](https://img.shields.io/badge/abs-2208.03306-red)
 - [Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM](https://arxiv.org/abs/2403.07816) ![](https://img.shields.io/badge/abs-2403.07816-red)
-
 
 ### Hybrid Architectures
 
@@ -339,8 +334,6 @@
 - [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839) ![](https://img.shields.io/badge/abs-2024.04-red)
 - [LaCT: Test-time Training Done Right](https://arxiv.org/abs/2505.23884) ![](https://img.shields.io/badge/abs-2025.05-red)
 
-
-  
 #### Intra-layer Hybrid
 
 - [Hymba: A Hybrid-head Architecture for Small Language Models](https://arxiv.org/abs/2411.13676) ![](https://img.shields.io/badge/abs-2024.11-red)
@@ -350,46 +343,28 @@
 - [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/abs/2410.10254) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [LoLA: Low-Rank Linear Attention With Sparse Caching](https://arxiv.org/abs/2505.23666) ![](https://img.shields.io/badge/abs-2025.05-red)
 
-
-
-
 ### Diffusion Large Language Models 
 
 #### Non-Autoregressive Diffusion LLM
 
 - [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) ![](https://img.shields.io/badge/abs-2025.02-red)
-
 - [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) ![](https://img.shields.io/badge/abs-2023.10-red)
-
 - [Likelihood-Based Diffusion Language Models](https://arxiv.org/abs/2305.18619) ![](https://img.shields.io/badge/abs-2023.05-red)
-
 - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) ![](https://img.shields.io/badge/abs-2022.10-red)
-
 - [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) ![](https://img.shields.io/badge/abs-2022.05-red)
 
-  
 #### Bridging Diffusion LLM and Autoregressive
 
-
 - [BLOCK DIFFUSION: INTERPOLATING BETWEEN AUTOREGRESSIVE AND DIFFUSION LANGUAGE MODELS](https://arxiv.org/abs/2503.09573) ![](https://img.shields.io/badge/abs-2025.03-red)
-
 - [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) ![](https://img.shields.io/badge/abs-2024.10-red)
-
-
 
 #### Extending Diffusion LLM to Multimodality
 
-
 - [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/abs/2505.16933) ![](https://img.shields.io/badge/abs-2025.05-red)
-
 - [Unified Multimodal Discrete Diffusion](https://arxiv.org/abs/2503.20853) ![](https://img.shields.io/badge/abs-2025.03-red)
-
 - [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) ![](https://img.shields.io/badge/abs-2025.05-red)
-
 - [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809) ![](https://img.shields.io/badge/abs-2025.05-red)
-
 - [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) ![](https://img.shields.io/badge/abs-2025.05-red)
-
 
 ### Applications to Other Modalities
 
@@ -490,8 +465,6 @@
 - [Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2405.04964) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion](https://arxiv.org/abs/2404.09293) ![](https://img.shields.io/badge/abs-2024.04-red)
 
-
-
 #### Audio
 
 - [RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection](https://arxiv.org/abs/2406.06086) ![](https://img.shields.io/badge/abs-2024.06-red)
@@ -510,8 +483,6 @@
 - [Why Perturbing Symbolic Music is Necessary: Fitting the Distribution of Never-used Notes through a Joint Probabilistic Diffusion Model](https://arxiv.org/abs/2408.01950) ![](https://img.shields.io/badge/abs-2024.08-red)
 - [Exploring RWKV for Memory Efficient and Low Latency Streaming ASR](https://arxiv.org/abs/2309.14758) ![](https://img.shields.io/badge/abs-2023.09-red)
 - [Advancing VAD Systems Based on Multi-Task Learning with Improved Model Structures](https://arxiv.org/abs/2312.14860) ![](https://img.shields.io/badge/abs-2023.12-red)
-
-
 
 #### Multimodality
 
@@ -532,8 +503,6 @@
 - [Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts](https://ieeexplore.ieee.org/document/10887014/) ![](https://img.shields.io/badge/PAMI-2025-blue)
 - [Mixture of Cluster-conditional LoRA Experts for Vision-Language Instruction Tuning](https://arxiv.org/abs/2312.12379) ![](https://img.shields.io/badge/abs-2023.12-red)
 - [LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs](https://arxiv.org/abs/2401.16160) ![](https://img.shields.io/badge/abs-2024.01-red)
-
-
 
 ## 🤝🏻 Contribution
 
