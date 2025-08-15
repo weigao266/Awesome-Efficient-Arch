@@ -541,6 +541,12 @@
 
 ⭐ **Join us to improve this repo!** ⭐ If you know of any **Awesome-Efficient-Arch** work we've missed, please contribute via PR or raise an issue. Your contributions are very welcomed!
 
+### Contributors
+
+<a href="https://github.com/weigao266/Awesome-Efficient-Arch/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=weigao266/Awesome-Efficient-Arch" />
+</a>
+
 ## 🖤 Citation
 If you find this survey useful, please consider citing our paper:
 ```bib
@@ -551,12 +557,6 @@ If you find this survey useful, please consider citing our paper:
   year={2025}
 }
 ```
-
-<!-- ### Contributors
-
-<a href="https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=XiaoYee/Awesome_Efficient_LRM_Reasoning" />
-</a>
 
 ---
 
