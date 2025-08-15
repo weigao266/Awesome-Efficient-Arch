@@ -100,7 +100,8 @@
 - [Structured State Space Models (S4)](https://arxiv.org/abs/2111.00396) ![](https://img.shields.io/badge/NeurIPS-2022-blue)
 - [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) ![](https://img.shields.io/badge/arXiv-2022.08-red)
 - [Hippo: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) ![](https://img.shields.io/badge/NeurIPS-2022-blue)
-- [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2210.11617) ![](https://img.shields.io/badge/arXiv-2022.10-red) ![](http://img.shields.io/badge/NeurIPS-2022-yellow)
+- [Diagonal State Spaces are as Effective as Structured State Spaces](https://proceedings.neurips.cc/paper_files/paper/2022/file/9156b0f6dfa9bbd18c79cc459ef5d61c-Paper-Conference.pdf)) ![](http://img.shields.io/badge/NeurIPS-2022-yellow)
+- [On the parameterization and initialization of diagonal state space models](https://papers.neurips.cc/paper_files/paper/2022/file/e9a32fade47b906de908431991440f7c-Paper-Conference.pdf) ![](http://img.shields.io/badge/NeurIPS-2022-yellow)
 - [Liquid‑S4: Liquid Structural State‑Space Models](https://arxiv.org/abs/2209.12951) ![](https://img.shields.io/badge/arXiv-2022.09-red)
 - [Longhorn: State Space Models Are Amortized Online Learners](https://arxiv.org/abs/2407.14207) ![](https://img.shields.io/badge/arXiv-2024.07-red)
 - [Time‑SSM: Simplifying and Unifying State Space Models for Time Series Forecasting](https://arxiv.org/abs/2405.16312) ![](https://img.shields.io/badge/arXiv-2024.05-red)
@@ -121,9 +122,12 @@
 - [Learning to (Learn at Test Time): RNNs with Expressive Hidden States](https://arxiv.org/abs/2407.04620) ![](https://img.shields.io/badge/arXiv-2024.07-red)
 
 #### Unified Linear Sequence Modeling
+- [线性注意力简史：从模仿、创新到反哺](https://kexue.fm/archives/11033)
 - [Comba: Improving Nonlinear RNNs with Closed‑loop Control](https://arxiv.org/abs/2506.02475) ![](https://img.shields.io/badge/arXiv-2025.06-red)
+- [Understanding Transformer from the Perspective of Associative Memory](https://arxiv.org/abs/2505.19488) ![](https://img.shields.io/badge/arXiv-2025.06-red)
 - [Test‑Time Regression: A Unifying Framework for Designing Sequence Models with Associative Memory](https://arxiv.org/abs/2501.12352) ![](https://img.shields.io/badge/arXiv-2025.01-red)
-- [MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map](https://arxiv.org/abs/2406.01234) ![](https://img.shields.io/badge/arXiv-2024.06-red) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
+- [MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map](https://arxiv.org/abs/2406.01234) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
+- [It’s All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization](https://arxiv.org/pdf/2504.13173?) ![](https://img.shields.io/badge/arXiv-2024.06-red)
 
 
 #### Linearization
