@@ -100,14 +100,14 @@
 
 #### Linear RNN
 
-- [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) ![](https://img.shields.io/badge/arXiv-2023.03-red) ![](http://img.shields.io/badge/ICML-2023-yellow)
-- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048) ![](https://img.shields.io/badge/arXiv-2023.05-red)
-- [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/abs/2311.04823) ![](https://img.shields.io/badge/arXiv-2023.11-red) ![](http://img.shields.io/badge/NeurIPS-2023-yellow)
-- [GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927) ![](https://img.shields.io/badge/arXiv-2023.11-red)
-- [Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence](https://arxiv.org/abs/2404.05892) ![](https://img.shields.io/badge/arXiv-2024.04-red)
-- [HGRN2: Gated Linear RNNs with State Expansion](https://arxiv.org/abs/2404.07904) ![](https://img.shields.io/badge/arXiv-2024.04-red)
-- [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517) ![](https://img.shields.io/badge/arXiv-2024.05-red)
 - [RWKV-7" Goose" with Expressive Dynamic State Evolution](https://arxiv.org/abs/2503.14456) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+- [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517) ![](https://img.shields.io/badge/arXiv-2024.05-red)
+- [HGRN2: Gated Linear RNNs with State Expansion](https://arxiv.org/abs/2404.07904) ![](https://img.shields.io/badge/arXiv-2024.04-red)
+- [Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence](https://arxiv.org/abs/2404.05892) ![](https://img.shields.io/badge/arXiv-2024.04-red)
+- [GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling](https://arxiv.org/abs/2311.01927) ![](https://img.shields.io/badge/arXiv-2023.11-red)
+- [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/abs/2311.04823) ![](https://img.shields.io/badge/arXiv-2023.11-red) ![](http://img.shields.io/badge/NeurIPS-2023-yellow)
+- [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048) ![](https://img.shields.io/badge/arXiv-2023.05-red)
+- [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) ![](https://img.shields.io/badge/arXiv-2023.03-red) ![](http://img.shields.io/badge/ICML-2023-yellow)
 
 #### State Space Model
 
