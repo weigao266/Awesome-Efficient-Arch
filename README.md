@@ -369,7 +369,7 @@
 ### Applications to Other Modalities
 
 #### Vision
-
+- [AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding](https://arxiv.org/abs/2507.02591) ![](https://img.shields.io/badge/abs-2025.07-red) ![](http://img.shields.io/badge/ICCV-2025-yellow)
 - [Res-vmamba: Fine-grained food category visual classification using selective state space models with deep residual learning](https://arxiv.org/abs/2402.15761) ![](https://img.shields.io/badge/abs-2024.02-red)
 - [Rsmamba: Remote sensing image classification with state space model](https://arxiv.org/abs/2403.19654) ![](https://img.shields.io/badge/abs-2024.03-red)
 - [InsectMamba: State Space Model with Adaptive Composite Features for Insect Recognition](https://ieeexplore.ieee.org/document/10888139/) ![](https://img.shields.io/badge/ICASSP-2025-blue)
