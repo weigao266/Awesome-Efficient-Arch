@@ -72,6 +72,7 @@
 #### Linear Attention
 
 - [Log-Linear Attention](https://arxiv.org/abs/2506.04761) ![](https://img.shields.io/badge/arXiv-2025.06-red)
+- [EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices](https://arxiv.org/abs/2503.22196) ![](https://img.shields.io/badge/arXiv-2025.03-red)![](http://img.shields.io/badge/ACL-2025-yellow)
 - [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://www.arxiv.org/abs/2502.13685) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 - [ReGLA: Refining Gated Linear Attention](https://arxiv.org/abs/2502.01578) ![](https://img.shields.io/badge/arXiv-2025.02-red) ![](http://img.shields.io/badge/NAACL-2025-yellow)
 - [MetaLA: Unified Optimal Linear Approximation to Softmax Attention Map](https://arxiv.org/abs/2411.10741) ![](https://img.shields.io/badge/arXiv-2024.11-red) ![](http://img.shields.io/badge/NeurIPS-2024-yellow)
