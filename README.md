@@ -189,6 +189,7 @@
 
 #### Dynamic Sparse Attention
 
+- [Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity](https://arxiv.org/abs/2505.14884) ![](https://img.shields.io/badge/abs-2505.14884-red)
 - [Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing](https://arxiv.org/abs/2505.00315) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) ![](https://img.shields.io/badge/abs-2025.02-red)
@@ -227,6 +228,7 @@
 
 #### Hardware-efficient Implementation
 
+- [Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity](https://arxiv.org/abs/2505.14884) ![](https://img.shields.io/badge/abs-2505.14884-red)
 - [SeerAttention: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189) ![](https://img.shields.io/badge/abs-2025.02-red)
@@ -252,6 +254,7 @@
 
 #### Mixture of Attention
 
+- [Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity](https://arxiv.org/abs/2505.14884) ![](https://img.shields.io/badge/abs-2505.14884-red)
 - [MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression](https://arxiv.org/abs/2406.14909) ![](https://img.shields.io/badge/abs-2406.14909-red)
 - [SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention](https://proceedings.neurips.cc/paper/2024/hash/7ac9b4341bf75e4d8634ae6ee35d52d5-Abstract-Conference-Paper.html) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
 - [MoH: Multi-Head Attention as Mixture-of-Head Attention](https://arxiv.org/abs/2410.11842) ![](https://img.shields.io/badge/abs-2410.11842-red)
@@ -293,6 +296,7 @@
 
 #### Expert Architectures
 
+- [Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity](https://arxiv.org/abs/2505.14884) ![](https://img.shields.io/badge/abs-2505.14884-red)
 - [From Sparse to Soft Mixtures of Experts](https://arxiv.org/abs/2308.00951) ![](https://img.shields.io/badge/abs-2308.00951-red)
 - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) ![](https://img.shields.io/badge/abs-2409.02060-red)
 - [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066) ![](https://img.shields.io/badge/abs-2401.06066-red)
