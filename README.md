@@ -9,6 +9,7 @@
 </div>
 
 ## 🔥 News
+- **2025.08**: 📢📢📢 The survey paper has been reported by many technical media, including: [Zhihu (知乎)](https://zhuanlan.zhihu.com/p/1944797944537646237), [Synced (机器之心)](https://mp.weixin.qq.com/s/o3U2IM4aLECZ6jVEzIbtcQ), [PaperWeekly](https://mp.weixin.qq.com/s/X0UED7W_Cm5fNvdnM7bcqA), [52CV (我爱计算机视觉)](https://mp.weixin.qq.com/s/1xc_WPhEOCuvnbMzkV-etg), [Deep Learning and NLP (深度学习自然语言处理)](https://mp.weixin.qq.com/s/wQOyd9Csd2hcIEiILSQs_w), [Emergent Clustering Points (涌现聚点)](https://mp.weixin.qq.com/s/fv4qotiMEPqEqySB7tNPSQ), [Global Economic Forum (全球经济论坛)](https://mp.weixin.qq.com/s/x2wH4XEvmI72leNgg6VpeA), and more. People ❤️ "Speed Always Wins"!
 - **2025.08**: 🎉🎉🎉 We have released a survey paper [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://arxiv.org/pdf/2508.09834), with 449 papers included. Please feel free to open PRs to include your **Awesome-Efficient-Arch** work.
 
 ## ✨ Overview
