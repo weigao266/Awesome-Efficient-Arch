@@ -348,6 +348,7 @@
 - [Liger: Linearizing Large Language Models to Gated Recurrent Structures](https://arxiv.org/abs/2503.01496) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/abs/2410.10254) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [LoLA: Low-Rank Linear Attention With Sparse Caching](https://arxiv.org/abs/2505.23666) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](https://arxiv.org/abs/2507.22448) ![](https://img.shields.io/badge/abs-2025.07-red)
 
 ### Diffusion Large Language Models 
 
