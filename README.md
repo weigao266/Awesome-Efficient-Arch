@@ -295,6 +295,7 @@
 - [BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity](https://arxiv.org/abs/2507.08771) ![](https://img.shields.io/badge/abs-2507.08771-red)
 - [Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models](https://arxiv.org/abs/2501.11873) ![](https://img.shields.io/badge/abs-2501.11873-red)
 - [Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts](https://arxiv.org/abs/2408.15664) ![](https://img.shields.io/badge/abs-2408.15664-red)
+- [Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning](https://arxiv.org/abs/2604.23036) ![](https://img.shields.io/badge/abs-2604.23036-red)
 
 #### Expert Architectures
 
